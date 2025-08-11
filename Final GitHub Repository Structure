@@ -1,0 +1,32 @@
+Cybersecurity-portfolio/
+│
+├── README.md
+├── Final GitHub Repository Structure.txt
+├── LICENSE # ( Add a license MIT)
+│
+├── Docs/
+│   └── certifications.md
+│
+├── Labs Scripts/
+│   ├── network_scan.sh
+│   ├── exploit_test.py
+│   └── enumeration_tool.ps1
+│
+├── Penetration-Testing-Framework/
+│   ├── pentest_framework.py
+│   │
+│   ├── reports/
+│   │   ├── Penetration-Testing-Framework.pdf
+│   │   └── summary.txt
+│   │
+│   └── test_cases/
+│       └── test_case_01.md
+│
+└── Vulnerability-Assessment-Tools/
+    ├── Docs/
+    │   └── Vulnerability-Assessment-Tool.pdf
+    │   |
+    └── sample_scans/
+        ├── Vulnerability-Assessment-Tool-Sample.pdf
+        └── scan_notes.txt
+
