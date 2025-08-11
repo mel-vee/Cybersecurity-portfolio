@@ -1,0 +1,29 @@
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment configs
+.env
+*.env
+
+# Generated reports
+*.pdf
+reports/
+scan_results/
+*.txt
+
+# OS-specific files
+*.swp
+*.swo
